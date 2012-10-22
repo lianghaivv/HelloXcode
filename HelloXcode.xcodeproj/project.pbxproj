@@ -462,6 +462,7 @@
 				155C993A16248AF1006C31B4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		155C993B16248AF1006C31B4 /* Build configuration list for PBXNativeTarget "HelloXcodeTests" */ = {
 			isa = XCConfigurationList;
@@ -470,6 +471,7 @@
 				155C993D16248AF1006C31B4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
